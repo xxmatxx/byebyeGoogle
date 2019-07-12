@@ -1,4 +1,4 @@
-# Bye bye Google
+# Bye bye Google and Apple
 
 ## Google play
 - https://f-droid.org
@@ -6,3 +6,10 @@
 
 ## File manager
 - Amaze - https://f-droid.org/en/packages/com.amaze.filemanager/
+
+## Find my phone
+- Prey Anti Theft -https://preyproject.com/download/ https://github.com/prey/ 
+
+## Other
+
+- https://github.com/bfabiszewski/ulogger-android
