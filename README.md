@@ -10,8 +10,10 @@
 ## Find my phone
 - Prey Anti Theft -https://preyproject.com/download/ https://github.com/prey/ 
 
-## Other
-
+## GPS
+- https://github.com/owntracks/owntracks
 - https://github.com/bfabiszewski/ulogger-android
+
+## Other
 - https://github.com/mthli/Mount
 - https://gitlab.com/oldosfan/librechair
